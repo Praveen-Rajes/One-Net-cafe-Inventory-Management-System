@@ -1,4 +1,4 @@
-# Internet-Cafes-Inventory-Management-System
+# OneNet-Cafe-Inventory-Management-System
 
 This is a command-line application built in Python for managing the inventory of the "One Net Cafe" internet cafe. The application allows the user to perform various operations such as adding, deleting, updating, and viewing items, as well as selecting dealers randomly and displaying their details.
 
